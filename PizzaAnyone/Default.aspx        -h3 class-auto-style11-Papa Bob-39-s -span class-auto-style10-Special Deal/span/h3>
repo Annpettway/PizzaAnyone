@@ -10,8 +10,13 @@
             width: 200px;
             height: 200px;
         }
-        .auto-style2 {
+        .auto-style11 {
             font-size: xx-large;
+        }
+        .auto-style10 {
+            color: #FF3300;
+            font-size: xx-large;
+               
         }
         .auto-style4 {
             color: #CC0000;
@@ -91,7 +96,8 @@
         <asp:CheckBox ID="anchoviesCheckBox" runat="server" style="font-size: large" Text="Anchovies (+$2)" />
         <br />
         <br />
-        Papa Bob&#39;s&nbsp;<span class="auto-style7"> </span></span><span class="auto-style4" style="font-family: Arial, Helvetica, sans-serif; font-size: xx-large; color: #FF0000;">Special Deal</span><span class="auto-style2"><span class="auto-style4"><br />
+        <h3 class="auto-style11">Papa Bob&#39;s <span class="auto-style10">Special Deal</span></h3>           
+         <br />
         <br />
         </span></span><strong><span class="auto-style6"><span class="auto-style9">Save $2.00 when you add Pepperoni, Green Peppers and Anchovies OR Pepperoni, Red Peppers and Onions to your pizza.<br />
         &nbsp;
